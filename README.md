@@ -1,4 +1,4 @@
-# 🌾 Crop Disease Detection – Mobile AI for Early Agricultural Diagnosis | Team Merge Infinity
+# 🌾 Annadata Saathi - One stop solution for Farmers
 
 ## 📌 Overview
 
@@ -159,16 +159,6 @@ IoT is used to **enhance accuracy and enable early risk prediction**, not as a s
 
 ---
 
-### 🌐 Live Demo / Hosting
-
-The application is live and accessible at:
-
-🔗 Live URL: https://let-go-3-0.vercel.app
-
-The hosted version demonstrates the complete frontend flow, AI interaction points, dashboard visualizations, and IoT data simulation in a real-world usable format.
-
----
-
 ### 🛒 Farmer Mart (Simulation – E-Commerce Module)
 
 To demonstrate post-diagnosis actionability, the project includes a Farmer Mart module — a simulated e-commerce experience designed for farmers.
@@ -203,15 +193,6 @@ UX flow
 Recommendation mapping
 
 System extensibility
-
----
-
-### 📁 Repository
-
-🔗 Farmer Mart (Simulation) Repository:
-(https://github.com/DHRUV-SAVE21/Farmer-Mart)
-
-The module is architected to be easily extendable into a real marketplace with verified sellers, pricing, and logistics integration.
 
 ---
 
